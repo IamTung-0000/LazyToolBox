@@ -6,7 +6,7 @@ Many thanks to SLEIPNIR for the original idea and lasso scripts!<br />
 https://github.com/roguesleipnir
 
 i have update and modified SLEIPNIR's script with an user interface with a HTML5 panel with on/off button and add some other function to fasten up my workflow.
-the script is pretty simple but useful, the interface talk with adobe extend script through Adobe Common Extensibility Platform and trigger an action when you use lasso tool.
+the script is pretty simple but useful, the interface talk with adobe extend script through Adobe Common Extensibility Platform.
 
 ----------------------------------------------------------------------------------------------------
 
