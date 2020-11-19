@@ -25,7 +25,7 @@ Hướng dẫn download cho ai không rành github thì nút download ở chỗ 
 
 -------------------------------------------------------
 
-5.LƯU Ý: nếu có vấn đề không sử dụng được có thể mở file "LassoFill_Main.jsx" bằng notepad hoặc phần mềm chỉnh sửa văn bản bất kỳ edit dòng sau"
+5.LƯU Ý: nếu có vấn đề không sử dụng được có thể mở file "LassoFill_Main.jsx" bằng notepad hoặc phần mềm chỉnh sửa văn bản bất kỳ edit dòng sau:
 
 SettingFile = File("/Program Files (x86)/Common Files/Adobe/CEP/extensions/com.myopia.lazytoolbox/host/MyopiaSettings.txt");
 
