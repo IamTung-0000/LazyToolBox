@@ -3,6 +3,7 @@ Photoshop Extension
 
 Many thanks to sleipnir for the original idea and basic scripts.<br />
 https://roguesleipnir.wordpress.com/2020/05/29/hacking-art-my-photoshop-lasso-auto-fill-script/
+----------------------------------------------------------------------------------------------------
 
 
 Hướng dẫn download cho ai không rành github thì nút download ở chỗ này :D
