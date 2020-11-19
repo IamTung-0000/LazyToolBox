@@ -1,5 +1,5 @@
 # LazyToolBox 1.0
-Photoshop Extension
+Photoshop Extension<br />
 my FB page: https://www.facebook.com/lethanhtung0209
 ----------------------------------------------------------------------------------------------------
 Many thanks to SLEIPNIR for the original idea and basic scripts.Check out his topic here <br />
