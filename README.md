@@ -1,7 +1,7 @@
 # LazyToolBox 1.0
 Photoshop Extension
-
-Many thanks to sleipnir for the original idea and basic scripts.<br />
+----------------------------------------------------------------------------------------------------
+Many thanks to sleipnir for the original idea and basic scripts.Check out his topic here <br />
 https://roguesleipnir.wordpress.com/2020/05/29/hacking-art-my-photoshop-lasso-auto-fill-script/
 ----------------------------------------------------------------------------------------------------
 
