@@ -17,7 +17,7 @@ Photoshop Extension
 
 3.khởi động photoshop, vào file --> Scripts chạy file "LassoFill_AddListener" một lần đầu tiên để cài scripts trigger,
 
-4. chạy extension từ Window --> Extensions --> LazyToolBox
+4.chạy extension từ Window --> Extensions --> LazyToolBox
 
 Have Fun
 
