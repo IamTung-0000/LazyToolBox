@@ -19,7 +19,7 @@ Hướng dẫn download cho ai không rành github thì nút download ở chỗ 
 [với window 32 bit]
 "C:\Program Files\Common Files\Adobe\CEP\extensions"
 
-3.khởi động photoshop, vào file --> Scripts chạy file "LassoFill_AddListener" một lần đầu tiên để cài scripts trigger,
+3.khởi động photoshop, vào file --> Scripts chạy file "LassoFill_AddListener" một lần đầu tiên để cài scripts trigger.
 
 4.chạy extension từ Window --> Extensions --> LazyToolBox
 
