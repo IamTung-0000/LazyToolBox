@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  background-color: #454545; 
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: #1EB391; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #199679; 
+}

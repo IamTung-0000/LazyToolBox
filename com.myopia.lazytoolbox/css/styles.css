@@ -1,0 +1,128 @@
+body {
+  background-color: #3B3B3B;
+}
+
+.canvas {
+	height: 360px;
+	width: 290px;
+	background-color: #3B3B3B;
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: #A6A6A6;
+}
+
+#btnGrp {
+	padding-top: 10px;
+	position: relative;
+	text-align: center;
+	align-content: center;
+}
+
+#lassofill {
+	position: absolute;
+	top: 135px;
+	left: 65px;
+}
+
+#btnGrpInside {
+	position: absolute;
+	top: 160px;
+	left: 40px;
+}
+
+
+
+
+
+	
+#footer{
+	text-align: center;
+	align-content: center;
+}
+
+
+
+/* The switch - the box around the slider */
+.switch {
+	z-index: 1;
+	position: absolute;
+	display: inline-block;
+	width: 30px;
+	height: 16px;
+	top: 135px;
+	left: 215px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 10px;
+  width: 10px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2AB190;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2AB190;
+}
+
+input:checked + .slider:before {
+  transform: translateX(15px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.button {
+	color:white;
+	border:none;
+	text-align:center;
+	margin: 4px 2px;
+	display: inline-block;
+	position: absolute;
+	top: 45.4%;
+	left: 40%;
+}
+
+.selectDisable {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+
