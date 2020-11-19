@@ -5,9 +5,11 @@ Many thanks to sleipnir for the original idea and basic scripts.<br />
 https://roguesleipnir.wordpress.com/2020/05/29/hacking-art-my-photoshop-lasso-auto-fill-script/
 ----------------------------------------------------------------------------------------------------
 
+![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/interface.jpg)
 
 Hướng dẫn download cho ai không rành github thì nút download ở chỗ này :D
-![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/download.jpg)
+![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/download.jpg)
+
 
 *note: Có thể giữ shift khi dùng lasso để xóa trong vùng chọn
 *Có thể sử dụng với bất kỳ tool nào khi ở chế độ khoanh vùng
