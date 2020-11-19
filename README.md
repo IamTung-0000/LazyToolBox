@@ -5,6 +5,8 @@ my FB page: https://www.facebook.com/lethanhtung0209
 Many thanks to SLEIPNIR for the original idea and lasso scripts!<br />
 https://github.com/roguesleipnir
 
+i have update and modified SLEIPNIR's script with an user interface with a HTML5 panel with on/off button and add some other function to fasten up my workflow.
+
 ----------------------------------------------------------------------------------------------------
 
 [TIẾNG VIỆT]
