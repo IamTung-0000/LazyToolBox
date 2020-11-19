@@ -1,6 +1,8 @@
 # LazyToolBox 1.0
 Photoshop Extension
 
+![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/download.jpg)
+
 *note: Có thể giữ shift khi dùng lasso để xóa trong vùng chọn
 
 [TIẾNG VIỆT]
