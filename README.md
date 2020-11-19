@@ -5,6 +5,7 @@ Hướng dẫn download cho ai không rành github thì nút download ở chỗ 
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/download.jpg)
 
 *note: Có thể giữ shift khi dùng lasso để xóa trong vùng chọn
+Có thể sử dụng với bất kỳ tool nào khi chuyển sang chế độ khoanh vùng
 
 [TIẾNG VIỆT]
 
