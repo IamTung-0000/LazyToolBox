@@ -28,6 +28,7 @@ SettingFile = File("/Program Files (x86)/Common Files/Adobe/CEP/extensions/com.m
 
 --------------------------------------------------------
 /Program Files (x86)/Common Files/Adobe/CEP/extensions
+-------------------------------------------------------
 thay thế phần trên bằng đường dẫn nơi bạn đã copy thư mục "com.myopia.lazytoolbox"
 
 
