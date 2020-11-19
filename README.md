@@ -2,7 +2,7 @@
 Photoshop Extension<br />
 my FB page: https://www.facebook.com/lethanhtung0209
 ----------------------------------------------------------------------------------------------------
-Many thanks to SLEIPNIR for the original idea and scripts!<br />
+Many thanks to SLEIPNIR for the original idea and lasso scripts!<br />
 https://github.com/roguesleipnir
 
 ----------------------------------------------------------------------------------------------------
