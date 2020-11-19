@@ -3,7 +3,9 @@ Photoshop Extension
 
 
 [TIẾNG VIỆT]
+
 [Hướng dẫn cài]
+
 1.chép 2 file "LassoFill_Main.jsx" và "LassoFill_AddListener.jsx" vào  C:\Program Files\Adobe\Adobe Photoshop CC 2019(còn tùy vào phiên bản bạn đang sử dụng)\Presets\Scripts
 
 2.chép folder "com.myopia.lazytoolbox" vào 
