@@ -1,7 +1,7 @@
 # LazyToolBox 1.0
 Photoshop Extension
 
-Hướng dẫn download cho ai không rành github :D
+Hướng dẫn download cho ai không rành github thì nút download ở chỗ này :D
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/download.jpg)
 
 *note: Có thể giữ shift khi dùng lasso để xóa trong vùng chọn
