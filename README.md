@@ -16,11 +16,11 @@ the script is pretty simple but useful, the interface talk with adobe extend scr
 **now if you install LazyToolBox plugin it will show a message "extension could not be loaded because it was not properly signed"
 this is because i dont know how to purchase a comercial certificate to properly signed i. <br></br>
 So there is a fix is to put adobe CEP to debug mode:
-after install the plugin you can open the putCEPtoDebugMode folder, there are 2 folder mac / win follow instruction base on your OS
-WIN:
-just run 2 regedit file it will automatically put CEP in debug mode, re open the photoshop and now it will run
-Mac:
-Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer.open the photoshop and now it will run
+after install the plugin you can open the putCEPtoDebugMode folder, there are 2 folder mac / win follow instruction base on your OS <br></br>
+WIN:<br></br>
+just run 2 regedit file it will automatically put CEP in debug mode, re open the photoshop and now it will run<br></br>
+Mac:<br></br>
+Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer.open the photoshop and now it will run<br></br>
 
 ----------------------------------------------------------------------------------------------------
 [INSTRUCTION]
