@@ -57,7 +57,9 @@ Put the .plist file in the /Users/your username/Library/Preferences directory an
 6.run extension từ Window --> Extensions --> LazyToolBox
 
 
-[TIẾNG VIỆT]
+
+
+[VIETNAM]
 
 Hướng dẫn download cho ai không rành github thì nút download ở chỗ này :D
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/download.jpg)
