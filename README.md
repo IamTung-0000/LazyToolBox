@@ -2,6 +2,8 @@
 Photoshop Extension<br />
 my FB page: https://www.facebook.com/lethanhtung0209
 
+compatible up to Photoshop cc2021
+
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/interface.jpg)
 ----------------------------------------------------------------------------------------------------
 Many thanks to SLEIPNIR for his original idea and lasso scripts!<br />
