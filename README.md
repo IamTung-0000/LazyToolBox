@@ -31,9 +31,9 @@ Put the .plist file in the /Users/your username/Library/Preferences directory an
 - auto lassofill mode can only be use when lasso tool is in new slection mode
 - hold shift to delete lasso area
 - can be use with any tool when in lasso mode
-- 
 
-download
+download link
+
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/download.jpg)
 
 [installation]
