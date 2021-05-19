@@ -23,7 +23,7 @@ Mac:<br></br>
 Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer.open the photoshop and now it will run<br></br>
 
 ----------------------------------------------------------------------------------------------------
-[INSTRUCTION]
+**[INSTRUCTION]
 
 [ENGLIGH]
 
@@ -46,8 +46,7 @@ download
 [window 32 bit]
 "C:\Program Files\Common Files\Adobe\CEP\extensions"
 
-3.
-open folder putCEPtoDebugMode and follow instruction base on your OS
+3.open folder putCEPtoDebugMode and follow instruction base on your OS
 WIN:
 just run 2 regedit file it will automatically put CEP in debug mode
 Mac:
