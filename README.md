@@ -14,7 +14,7 @@ the script is pretty simple but useful, the interface talk with adobe extend scr
 
 [#5.2021 UPDATE SIGNED ERROR FIX] <br></br>
 **now if you install LazyToolBox plugin it will show a message "extension could not be loaded because it was not properly signed"
-this is because i dont know how to purchase a comercial certificate to properly signed i.
+this is because i dont know how to purchase a comercial certificate to properly signed i. <br></br>
 So there is a fix is to put adobe CEP to debug mode:
 after install the plugin you can open the putCEPtoDebugMode folder, there are 2 folder mac / win follow instruction base on your OS
 WIN:
