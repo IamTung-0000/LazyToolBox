@@ -1,18 +1,27 @@
 # LazyToolBox 1.0
-Photoshop Extension
+Photoshop Extension<br />
+my FB page: https://www.facebook.com/lethanhtung0209
+----------------------------------------------------------------------------------------------------
+Many thanks to SLEIPNIR for his original idea and lasso scripts!<br />
+https://github.com/roguesleipnir
 
-Many thanks to sleipnir for the original idea and basic scripts.<br />
-https://roguesleipnir.wordpress.com/2020/05/29/hacking-art-my-photoshop-lasso-auto-fill-script/
+i have update and modified SLEIPNIR's script with an user interface with a HTML5 panel with on/off button and add some other functions to fasten up my workflow.
+the script is pretty simple but useful, the interface talk with adobe extend script through Adobe Common Extensibility Platform.
+
 ----------------------------------------------------------------------------------------------------
 
+[TIẾNG VIỆT]
+
+![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/interface.jpg)
 
 Hướng dẫn download cho ai không rành github thì nút download ở chỗ này :D
-![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/download.jpg)
+![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/download.jpg)
+
 
 *note: Có thể giữ shift khi dùng lasso để xóa trong vùng chọn
 *Có thể sử dụng với bất kỳ tool nào khi ở chế độ khoanh vùng
 
-[TIẾNG VIỆT]
+
 
 [Hướng dẫn cài]
 
