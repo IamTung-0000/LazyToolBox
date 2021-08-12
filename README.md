@@ -12,16 +12,6 @@ https://github.com/roguesleipnir
 i have update and modified SLEIPNIR's script with an user interface with a HTML5 panel with on/off button and add some other functions to fasten up my workflow.
 the script is pretty simple but useful, the interface talk with adobe extend script through Adobe Common Extensibility Platform.
 
-[#5.2021 UPDATE SIGNED ERROR FIX] <br></br>
-**now if you install LazyToolBox plugin it will show a message "extension could not be loaded because it was not properly signed"
-this is because i dont know how to purchase a comercial certificate to properly signed i. <br></br>
-So there is a fix is to put adobe CEP to debug mode:
-after install the plugin you can open the putCEPtoDebugMode folder, there are 2 folder mac / win follow instruction base on your OS <br></br>
-WIN:<br></br>
-just run 2 regedit file it will automatically put CEP in debug mode, re open the photoshop and now it will run<br></br>
-Mac:<br></br>
-Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer.open the photoshop and now it will run<br></br>
-
 ----------------------------------------------------------------------------------------------------
 **[Hướng Dẫn]
 
@@ -44,8 +34,7 @@ Hướng dẫn download cho ai không rành github thì nút download ở chỗ 
 [với window 32 bit]
 "C:\Program Files\Common Files\Adobe\CEP\extensions"
 
-3.
-mở thư mục putCEPtoDebugMode
+3.mở thư mục putCEPtoDebugMode
 WIN:
 chạy 2 file .reg để đưa CEP photoshop vào debug mode
 Mac:
