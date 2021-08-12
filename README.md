@@ -1,6 +1,6 @@
 # LazyToolBox 1.0
 Photoshop Extension<br />
-my FB page: https://www.facebook.com/lethanhtung0209
+my Facebook page: https://www.facebook.com/lethanhtung0209
 
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/interface.jpg)
 
