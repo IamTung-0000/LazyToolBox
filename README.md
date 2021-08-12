@@ -20,7 +20,6 @@ the script is pretty simple but useful, the interface talk with adobe extend scr
 Hướng dẫn download cho ai không rành github thì nút download ở chỗ này :D
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/download.jpg)
 
-
 *note: Có thể giữ shift khi dùng lasso để xóa trong vùng chọn
 *Có thể sử dụng với bất kỳ tool nào khi ở chế độ khoanh vùng
 
@@ -37,6 +36,7 @@ Hướng dẫn download cho ai không rành github thì nút download ở chỗ 
 3.mở thư mục putCEPtoDebugMode
 WIN:
 chạy 2 file .reg để đưa CEP photoshop vào debug mode
+<br>
 Mac:
 đưa các file .plist vào thư mục/Users/your username/Library/Preferences và khởi động lại máy
 
