@@ -35,10 +35,10 @@ Hướng dẫn download cho ai không rành github thì nút download ở chỗ 
 
 3.mở thư mục putCEPtoDebugMode
 <br>
-WIN:
+Máy WIN:
 chạy 2 file .reg để đưa CEP photoshop vào debug mode
 <br>
-Mac:
+Máy Mac:
 đưa các file .plist vào thư mục/Users/your username/Library/Preferences và khởi động lại máy
 
 4.khởi động photoshop, vào file --> Scripts chạy file "LassoFill_AddListener" một lần đầu tiên để cài scripts trigger.
