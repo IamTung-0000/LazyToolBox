@@ -23,41 +23,7 @@ Mac:<br></br>
 Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer.open the photoshop and now it will run<br></br>
 
 ----------------------------------------------------------------------------------------------------
-**[INSTRUCTION]
-
-[ENGLIGH]
-
-*note: 
-- auto lassofill mode can only be use when lasso tool is in new slection mode
-- hold shift to delete lasso area
-- can be use with any tool when in lasso mode
-
-download link
-
-![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/download.jpg)
-
-[installation]
-
-1.copy "LassoFill_Main.jsx" and "LassoFill_AddListener.jsx" to  C:\Program Files\Adobe\"YOUR PHOTOSHOP VERSION"\Presets\Scripts
-
-2.copy folder "com.myopia.lazytoolbox" to 
-[window 64 bit]
-"C:\Program Files (x86)\Common Files\Adobe\CEP\extensions"
-[window 32 bit]
-"C:\Program Files\Common Files\Adobe\CEP\extensions"
-
-3.open folder putCEPtoDebugMode and follow instruction base on your OS
-WIN:
-just run 2 regedit file it will automatically put CEP in debug mode
-Mac:
-Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer
-
-5.start photoshop, go to file --> Scripts run "LassoFill_AddListener" to enable scripts trigger.
-
-6.run extension từ Window --> Extensions --> LazyToolBox
-
-
-
+**[Hướng Dẫn]
 
 [VIETNAM]
 
@@ -102,6 +68,42 @@ thay thế phần trên bằng đường dẫn nơi đã copy thư mục "com.my
 
 ví dụ:  \Program Files\Common Files\Adobe\CEP\extensions
 đối với window 32 bit, sau đó copy trả lại folder "com.myopia.lazytoolbox" theo bước một
+
+[ENGLIGH]
+
+*note: 
+- auto lassofill mode can only be use when lasso tool is in new slection mode
+- hold shift to delete lasso area
+- can be use with any tool when in lasso mode
+
+download link
+
+![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/download.jpg)
+
+[installation]
+
+1.copy "LassoFill_Main.jsx" and "LassoFill_AddListener.jsx" to  C:\Program Files\Adobe\"YOUR PHOTOSHOP VERSION"\Presets\Scripts
+
+2.copy folder "com.myopia.lazytoolbox" to 
+[window 64 bit]
+"C:\Program Files (x86)\Common Files\Adobe\CEP\extensions"
+[window 32 bit]
+"C:\Program Files\Common Files\Adobe\CEP\extensions"
+
+3.open folder putCEPtoDebugMode and follow instruction base on your OS
+WIN:
+just run 2 regedit file it will automatically put CEP in debug mode
+Mac:
+Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer
+
+5.start photoshop, go to file --> Scripts run "LassoFill_AddListener" to enable scripts trigger.
+
+6.run extension từ Window --> Extensions --> LazyToolBox
+
+
+
+
+
 
 
 
