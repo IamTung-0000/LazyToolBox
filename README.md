@@ -34,6 +34,7 @@ Hướng dẫn download cho ai không rành github thì nút download ở chỗ 
 "C:\Program Files\Common Files\Adobe\CEP\extensions"
 
 3.mở thư mục putCEPtoDebugMode
+<br>
 WIN:
 chạy 2 file .reg để đưa CEP photoshop vào debug mode
 <br>
