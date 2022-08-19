@@ -14,7 +14,7 @@ the script is pretty simple but useful, the interface talk with adobe extend scr
 
 ----------------------------------------------------------------------------------------------------
 
-[INSTRUCTION]
+<b>[INSTRUCTION]</b>
 
 * feature
 - autofill lasso area when you drop the click
@@ -54,6 +54,6 @@ Put the .plist file in the /Users/your username/Library/Preferences directory an
 
 
 
-Have Fun
+Have Fun!
 
 
