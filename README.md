@@ -1,6 +1,6 @@
 # LazyToolBox 1.0
 Photoshop Extension<br />
-my Facebook page: https://www.facebook.com/lethanhtung0209
+If you guys have any problem at install contact me via FB: https://www.facebook.com/lethanhtung0209
 
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/interface.jpg)
 
@@ -22,6 +22,7 @@ the script is pretty simple but useful, the interface talk with adobe extend scr
 - can be use with any tool when in lasso mode
 
 * note: 
+- If you have problem with switch button not turn off auto lassofill feature in window OS, just lauch Photoshop in Adminstrator mode.
 - auto lassofill mode can only be use when lasso tool is in new slection mode
 
 [installation]
