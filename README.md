@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/60949015/185576002-b21258b6-dae4-4334-
 
 
 Quick test of using LazyToolBox by @Arman Laxamana
-https://github.com/armandraws
+https://armandraws.carrd.co/
 
 * Currently Compatible from CC2015 to CC2022
 ----------------------------------------------------------------------------------------------------
