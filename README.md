@@ -35,7 +35,7 @@ note:
 C:\Program Files\Adobe\"YOUR PHOTOSHOP VERSION"\Presets\Scripts
 <br>
 [MacOS]<br>
-/Applications/Adobe\Photoshop/"YOUR PHOTOSHOP VERSION"/Presets/Scripts  
+/Applications/Adobe/Photoshop/"YOUR PHOTOSHOP VERSION"/Presets/Scripts  
 
 2.copy folder "com.myopia.lazytoolbox" to 
 <br>
@@ -46,7 +46,7 @@ C:\Program Files\Adobe\"YOUR PHOTOSHOP VERSION"\Presets\Scripts
 "C:\Program Files\Common Files\Adobe\CEP\extensions"
 <br>
 [MacOS]
-"/Users/* your user name */Library/Application\ Support/Adobe/CEP/extensions"
+"/Users/* your user name */Library/Application/Support/Adobe/CEP/extensions"
 
 3.open folder putCEPtoDebugMode and follow instruction base on your OS
 <br>
