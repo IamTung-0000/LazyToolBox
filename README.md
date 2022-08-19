@@ -40,6 +40,7 @@ download link
 "C:\Program Files\Common Files\Adobe\CEP\extensions"
 
 3.open folder putCEPtoDebugMode and follow instruction base on your OS
+<br>
 WIN:
 just run 2 regedit file it will automatically put CEP in debug mode
 <br>
