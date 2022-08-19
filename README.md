@@ -3,7 +3,9 @@ Photoshop Extension<br />
 If you guys have any problem at install contact me via FB: 
 https://www.facebook.com/lethanhtung0209
 
-![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/interface.jpg)
+https://user-images.githubusercontent.com/60949015/185575037-2ee15802-e003-49b0-9d55-e4a2b01122b6.mp4
+Quick Demo of using LazyToolBox by @Arman Laxamana
+https://github.com/armandraws
 
 * Currently Compatible from CC2015 to CC2022
 ----------------------------------------------------------------------------------------------------
@@ -13,7 +15,10 @@ https://github.com/roguesleipnir
 i have update and modified SLEIPNIR's script with an user interface with a HTML5 panel with on/off button and add some other functions to fasten up my workflow.
 the script is pretty simple but useful.
 
-----------------------------------------------------------------------------------------------------
+------------
+
+
+----------------------------------------------------------------------------------------
 
 <b>[INSTRUCTION]</b>
 <br>
