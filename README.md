@@ -1,6 +1,7 @@
 # LazyToolBox 1.0
 Photoshop Extension<br />
-If you guys have any problem at install contact me via FB: https://www.facebook.com/lethanhtung0209
+If you guys have any problem at install contact me via FB: 
+https://www.facebook.com/lethanhtung0209
 
 ![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/interface.jpg)
 
