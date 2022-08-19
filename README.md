@@ -15,7 +15,7 @@ https://armandraws.carrd.co/
 Many thanks to SLEIPNIR for his original idea and lasso scripts!<br />
 https://github.com/roguesleipnir
 
-i have update and modified SLEIPNIR's script with an user interface with a HTML5 panel with on/off button and add some other functions to fasten up my workflow.
+this is a fork of SLEIPNIR's script with an user interface with a HTML5 panel with on/off button and add some other functions to fasten up my workflow.
 the script is pretty simple but useful.
 
 ------------
