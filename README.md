@@ -31,10 +31,10 @@ note:
 
 1.copy "LassoFill_Main.jsx" and "LassoFill_AddListener.jsx" to  
 <br>
-[WINDOW]
+[WINDOW]<br>
 C:\Program Files\Adobe\"YOUR PHOTOSHOP VERSION"\Presets\Scripts
 <br>
-[MacOS]
+[MacOS]<br>
 /Applications/Adobe\Photoshop/"YOUR PHOTOSHOP VERSION"/Presets/Scripts  
 
 2.copy folder "com.myopia.lazytoolbox" to 
