@@ -17,14 +17,14 @@ the script is pretty simple but useful.
 
 <b>[INSTRUCTION]</b>
 
-* feature
-_ autofill lasso area when you drop the click
-_ hold shift while draw lasso to erase area
-_ can be use with any tool when in lasso mode
+  feature
+- autofill lasso area when you drop the click
+- hold shift while draw lasso to erase area
+- can be use with any tool when in lasso mode
 
-* note: 
-_ If you have problem with switch button not turn off auto lassofill feature in window OS, just lauch Photoshop in Adminstrator mode.
-_ auto lassofill mode can only be use when lasso tool is in new slection mode
+  note: 
+- If you have problem with switch button not turn off auto lassofill feature in window OS, just lauch Photoshop in Adminstrator mode.
+- auto lassofill mode can only be use when lasso tool is in new slection mode
 
 <b>[installation]</b>
 
