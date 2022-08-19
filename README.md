@@ -24,11 +24,6 @@ the script is pretty simple but useful, the interface talk with adobe extend scr
 * note: 
 - auto lassofill mode can only be use when lasso tool is in new slection mode
 
-
-download link
-
-![alt text](https://github.com/m-myopia/LazyToolBox/blob/master/README_IMG/download.jpg)
-
 [installation]
 
 1.copy "LassoFill_Main.jsx" and "LassoFill_AddListener.jsx" to  C:\Program Files\Adobe\"YOUR PHOTOSHOP VERSION"\Presets\Scripts
