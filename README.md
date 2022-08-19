@@ -23,7 +23,7 @@ the script is pretty simple but useful.
 - hold shift while draw lasso to erase area
 - can be use with any tool when in lasso mode
 
-  note: 
+note: 
 - If you have problem with switch button not turn off auto lassofill feature in window OS, just lauch Photoshop in Adminstrator mode.
 - auto lassofill mode can only be use when lasso tool is in new slection mode
 
