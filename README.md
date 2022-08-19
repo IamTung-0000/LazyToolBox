@@ -25,7 +25,7 @@ the script is pretty simple but useful, the interface talk with adobe extend scr
 - If you have problem with switch button not turn off auto lassofill feature in window OS, just lauch Photoshop in Adminstrator mode.
 - auto lassofill mode can only be use when lasso tool is in new slection mode
 
-[installation]
+<b>[installation]</b>
 
 1.copy "LassoFill_Main.jsx" and "LassoFill_AddListener.jsx" to  C:\Program Files\Adobe\"YOUR PHOTOSHOP VERSION"\Presets\Scripts
 
