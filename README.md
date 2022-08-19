@@ -16,8 +16,9 @@ the script is pretty simple but useful.
 ----------------------------------------------------------------------------------------------------
 
 <b>[INSTRUCTION]</b>
+<br>
 
-  feature
+  feature:
 - autofill lasso area when you drop the click
 - hold shift while draw lasso to erase area
 - can be use with any tool when in lasso mode
