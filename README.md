@@ -3,7 +3,10 @@ Photoshop Extension<br />
 If you guys have any problem at install contact me via FB: 
 https://www.facebook.com/lethanhtung0209
 
-<video>https://user-images.githubusercontent.com/60949015/185575037-2ee15802-e003-49b0-9d55-e4a2b01122b6.mp4</video>
+
+https://user-images.githubusercontent.com/60949015/185576002-b21258b6-dae4-4334-b08c-86f40556670a.mp4
+
+
 Quick Demo of using LazyToolBox by @Arman Laxamana
 https://github.com/armandraws
 
