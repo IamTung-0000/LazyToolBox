@@ -40,6 +40,9 @@ download link
 <br>
 [window 32 bit]
 "C:\Program Files\Common Files\Adobe\CEP\extensions"
+<br>
+[MacOS]
+"/Users/* your user name */Library/Application\ Support/Adobe/CEP/extensions"
 
 3.open folder putCEPtoDebugMode and follow instruction base on your OS
 <br>
