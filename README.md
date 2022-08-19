@@ -42,6 +42,7 @@ download link
 3.open folder putCEPtoDebugMode and follow instruction base on your OS
 WIN:
 just run 2 regedit file it will automatically put CEP in debug mode
+<br>
 Mac:
 Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer
 
