@@ -47,14 +47,9 @@ just run 2 regedit file it will automatically put CEP in debug mode
 Mac:
 Put the .plist file in the /Users/your username/Library/Preferences directory and restart the computer
 
-5.start photoshop, go to file --> Scripts run "LassoFill_AddListener" to enable scripts trigger.
+5.start photoshop, go to file --> Scripts and select "LassoFill_AddListener" to enable scripts trigger.
 
-6.run extension từ Window --> Extensions --> LazyToolBox
-
-
-
-
-
+6.lauch extension from Window --> Extensions --> LazyToolBox
 
 
 
