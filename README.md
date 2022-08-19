@@ -34,8 +34,10 @@ download link
 1.copy "LassoFill_Main.jsx" and "LassoFill_AddListener.jsx" to  C:\Program Files\Adobe\"YOUR PHOTOSHOP VERSION"\Presets\Scripts
 
 2.copy folder "com.myopia.lazytoolbox" to 
+<br>
 [window 64 bit]
 "C:\Program Files (x86)\Common Files\Adobe\CEP\extensions"
+<br>
 [window 32 bit]
 "C:\Program Files\Common Files\Adobe\CEP\extensions"
 
